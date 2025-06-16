@@ -56,3 +56,5 @@ npm install
 ```bash
 npm run dev
 ```
+
+Sistema criado por Luis Estevam e Milena Swierk

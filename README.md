@@ -42,7 +42,7 @@ src/
 
 ```bash
 git clone https://github.com/Luis-Estevam/ProjetoFinal_MaxFitTreinos.git
-cd maxfit-treinos
+cd ProjetoFinal_MaxFitTreinos
 ```
 
 2. Instale as dependências:
